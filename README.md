@@ -86,8 +86,6 @@ Prior to using this repository, preprocess the raw WESAD signals into per-window
 - Base Learners: LDA, KNN, Logistic Regression (with scaling)
 - Meta Learner: XGBoost (no scaling required)
 
-The ensemble uses `StackingClassifier` from scikit-learn with 5-fold cross-validation.
-
 ### 4. Evaluation Metrics
 
 All classifiers are evaluated on:
