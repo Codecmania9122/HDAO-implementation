@@ -1,5 +1,3 @@
-# HDAO-implementation
-
 # Stress Detection from Physiological Signals using HDAO, SMOTE, and Ensemble Learning
 
 This repository presents a robust machine learning pipeline for detecting stress from wearable biosensor data. It introduces a novel oversampling technique called HDAO (Hypersphere Density-Aware Oversampling), compares it with SMOTE and a no-oversampling baseline, and evaluates multiple traditional classifiers along with a stacked ensemble model.
